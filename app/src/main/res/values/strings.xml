@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NgoXuanLuan_Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_xl">Xuân Luân</string>
+    <string name="app_name1">Ngô Xuân Luân</string>
+    <string name="edt_username">Tên người dùng</string>
+    <string name="edt_password">Mật khẩu</string>
+    <string name="edt_search">Nhập sản phẩm cần tìm</string>
+    <string name="edt_email">Email</string>
+    <string name="btn_add">Thêm</string>
+    <string name="txt_book">PHẦN MỀM QUẢN LÝ SÁCH</string>
+    <string name="txt_login">Bạn đã có tài khoản</string>
+    <string name="txt_register">Bạn chưa có tài khoản</string>
+    <string name="txt_signup">Đăng ký</string>
+    <string name="txt_signin">Đăng nhập</string>
+    <string name="txt_books">Sách</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frg_home">Trang chủ</string>
+    <string name="frg_category">Loại sách</string>
+    <string name="frg_profile">Thông tin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: item this placeholder text -->
+    <string name="item_setting">Thiết lập</string>
+</resources>

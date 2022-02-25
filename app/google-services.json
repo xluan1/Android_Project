@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452931897217",
+    "project_id": "ngoxuanluan-project",
+    "storage_bucket": "ngoxuanluan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452931897217:android:08e6a45cd112ef9df40a80",
+        "android_client_info": {
+          "package_name": "com.xuanluan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452931897217-0rq85cgim2s3d4o8ne17ratlulob28kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcR1yMsV3oA2Ykogby-c81fPpOtqmjeAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452931897217-0rq85cgim2s3d4o8ne17ratlulob28kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
